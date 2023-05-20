@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://kathenson.netlify.app/](https://kathenson.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://katherineabrego.netlify.app/](https://katherineabrego.netlify.app/)
 
 - 📫 How to reach me **kathenson2@gmail.com**
 
