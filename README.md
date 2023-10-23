@@ -1,6 +1,6 @@
 ![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm Kat</h1>
-<h3 align="center">A Software Developer located in Denver.</h3>
+<h3 align="center">A Software Developer located in Fort Worth, TX.</h3>
 <img align="right" alt="woman on computer coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f402a9d4e121b7f850b4374/1598040805419-QIEZIF4KLQAPB0VV6B58/App-Developer.gif">
 
 <p align="left"> <a href="https://twitter.com/kat_codes" target="blank"><img src="https://img.shields.io/twitter/follow/kat_codes?logo=twitter&style=for-the-badge" alt="kat_codes" /></a> </p>
