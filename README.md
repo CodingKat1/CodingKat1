@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kat_codes" target="blank"><img src="https://img.shields.io/twitter/follow/kat_codes?logo=twitter&style=for-the-badge" alt="kat_codes" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Authentication**
 
 - 👨‍💻 All of my projects are available at [https://katherineabrego.netlify.app/](https://katherineabrego.netlify.app/)
 
